@@ -1,3 +1,5 @@
 This is first document.
 
-Writing something for the second commit
+Writing for the second commit
+
+-Rahul Pawar
